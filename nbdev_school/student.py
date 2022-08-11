@@ -3,7 +3,7 @@
 # %% auto 0
 __all__ = ['Student']
 
-# %% ../nbs/student.ipynb 3
+# %% ../nbs/student.ipynb 4
 class Student:
     def __init__(self, 
                 name: str, # name of the student
