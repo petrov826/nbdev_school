@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "nbs/index.html",
+    "href": "nbs/index.html",
+    "title": "nbdev school",
+    "section": "",
+    "text": "Create Student’s instance and call introduce method.\n\nStudent(\"Tom\", 14).introduce()\n\nHello, I'm Tom and 14-years old."
+  },
+  {
+    "objectID": "nbs/student.html#usage",
+    "href": "nbs/student.html#usage",
+    "title": "Student",
+    "section": "usage",
+    "text": "usage\n\nstudents = [\n    Student(\"Tom\", 14),\n    Student(\"Jack\", 15)\n]\n\nfor student in students:\n    student.introduce()\n\nHello, I'm Tom and 14-years old.\nHello, I'm Jack and 15-years old."
+  }
+]
